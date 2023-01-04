@@ -1,0 +1,11 @@
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.exe.config
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.exe
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.pdb
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.AssemblyReference.cache
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.Form1.resources
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.Properties.Resources.resources
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.GenerateResource.cache
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.CoreCompileInputs.cache
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.exe
+C:\Users\mobil.stajyer\Desktop\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.pdb
