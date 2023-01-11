@@ -1,0 +1,17 @@
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Encryptor.exe
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Encryptor.deps.json
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Encryptor.runtimeconfig.json
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Encryptor.dll
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Encryptor.pdb
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.csproj.AssemblyReference.cache
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.csproj.GenerateResource.cache
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.AssemblyInfoInputs.cache
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.AssemblyInfo.cs
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.dll
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\Encryptor.dll
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.pdb
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Encryptor.genruntimeconfig.cache
+C:\Users\mobil.stajyer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\Encryptor.dll
